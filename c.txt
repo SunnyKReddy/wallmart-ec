@@ -1,1 +1,2 @@
 first line of c.txt
+second line of c.txt 
