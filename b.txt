@@ -1,1 +1,1 @@
-first line of b.txt file
+first line of b.txt
