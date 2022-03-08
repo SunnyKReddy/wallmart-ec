@@ -1,1 +1,2 @@
 First line of j.txt
+added second line to j.txt file
