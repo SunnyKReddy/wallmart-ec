@@ -6,3 +6,4 @@ first line of f.txt and added this file in stage branch
 3rd commit on the f.txt
 4th commit on the f.txt
 5th commit
+6th commit
