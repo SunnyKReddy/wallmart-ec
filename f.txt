@@ -4,3 +4,8 @@ first line of f.txt and added this file in stage branch
 1st commit
 2nd commit on the f.txt
 3rd commit on the f.txt
+<<<<<<< HEAD
+=======
+4th commit on the f.txt
+5th commit
+>>>>>>> 809cc92 (5th commit on f.txt)
